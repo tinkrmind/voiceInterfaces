@@ -1,0 +1,5 @@
+ChatBot builder choice:
+https://www.linkedin.com/pulse/chatbot-comparison-whats-best-diy-bot-building-site-daley-robinson
+
+TypeError solution:
+pip install --upgrade requests

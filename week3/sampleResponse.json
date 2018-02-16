@@ -1,0 +1,56 @@
+{
+  "id": "f99877e1-f478-4e95-a4f6-005e731d7a3b",
+  "timestamp": "2018-02-14T07:40:29.564Z",
+  "lang": "en",
+  "result": {
+    "source": "agent",
+    "resolvedQuery": "decode resistor red red green gold",
+    "action": "DecodeResistorValue",
+    "actionIncomplete": false,
+    "parameters": {
+      "BandColor1": "Red",
+      "BandColor2": "Red",
+      "BandColor3": "Green",
+      "ToleranceColor": "Gold"
+    },
+    "contexts": [],
+    "metadata": {
+      "intentId": "e133044b-bb5c-43ba-a920-4d10eda3e195",
+      "webhookUsed": "false",
+      "webhookForSlotFillingUsed": "false",
+      "intentName": "Decode Resistor"
+    },
+    "fulfillment": {
+      "speech": "Decoding resistor value of Red, Red, Green, Gold",
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "textToSpeech": "Decoding resistor value of Red, Red, Green, Gold"
+        },
+        {
+          "type": 0,
+          "speech": "Decoding resistor value of Red, Red, Green, Gold"
+        }
+      ]
+    },
+    "score": 1.0
+  },
+  "alternateResult": {
+    "source": "domains",
+    "resolvedQuery": "decode resistor red red green gold",
+    "contexts": [],
+    "metadata": {},
+    "fulfillment": {
+      "speech": "",
+      "source": "agent"
+    },
+    "score": 1.0
+  },
+  "status": {
+    "code": 200,
+    "errorType": "success",
+    "webhookTimedOut": false
+  },
+  "sessionId": "AIY"
+}
