@@ -21,7 +21,7 @@ shell = True
 
 def speak(this):
     print('- '+str(this))
-    subprocess.run(['flite', '-voice', 'file://cmu_us_aew.flitevox', '-t', str(this)])
+    subprocess.run(['flite', '-voice', 'cmu_us_aew.flitevox', '-t', str(this)])
 
 speak('I\'m listening')
 var = input('> ')
