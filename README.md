@@ -42,7 +42,7 @@ Eg.
 
 # Week 3 : Electron
 
-![Electron](https://j.gifs.com/0Vo9oy.gif)
+![Electron](https://github.com/tinkrmind/voiceInterfaces/blob/master/week3/simpleDemoGIF.gif)
 
 ## [Demo Video](https://vimeo.com/255838314)
 
