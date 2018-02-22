@@ -77,6 +77,6 @@ My aim for the final project is to have an easily extendible prototype ready whi
 
 I am planning to dialogflow and Google Voice Kit to accomplish this. The basic dialog flow is as follows:
 
-![dialog flow]()
+![dialog flow](https://github.com/tinkrmind/voiceInterfaces/blob/master/week4/electra_flow.png)
 
 
