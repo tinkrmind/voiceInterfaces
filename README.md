@@ -20,6 +20,8 @@ then just type after the > prompt.
 
 To exit, type > I'm leaving
 
+---
+
 # Week 2 : fuckOff
 
 fuckOff affords you a terminal interface to tell people to stop disturbing you when you're in the zone. After you're done setting it up, typing fuckOff speaks a random fuck you.
@@ -38,7 +40,9 @@ Eg.
     
     $ fuckOff
     
-    * computer tells everyone to fOff in a random way *  
+    * computer tells everyone to f*^k off in a random way *  
+
+---
 
 # Week 3 : Electron
 
@@ -47,3 +51,24 @@ Eg.
 ## [Demo Video](https://vimeo.com/255838314)
 
 Meet electron, your electronics help assistant. Right now, he can make some small talk and decode resistor values from the color bands. But soon he'll be able to help you design circuits, decide component values, translate obscure smd codes, read pinouts and more!
+
+### Understanding DialogFlow
+
+---
+
+# Week 4 : Final Project design
+
+#### Electron
+
+Electron is a electronics help assistant. It is meant as a chatbot to aid students learning electronics for the first time. 
+
+My aim for the final project is to have an easily extendible prototype ready which will be able to 
+(a) have simple small talk conversations with the personality of a quirky engineer 
+(b) code and decode resistor values from the colors of the bands, 
+(c) solve simple Ohm's law problems with one missing variable.
+
+I am planning to dialogflow and Google Voice Kit to accomplish this. The basic dialog flow is as follows:
+
+![dialog flow]()
+
+
