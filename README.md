@@ -1,10 +1,14 @@
-# Voioce Interface
+# Voice Interface
 
 For [Voice interface class Spring 2018, ITP](https://github.com/juxtapix/ExpressiveInterfaces_Voice/wiki)
 
 # Week 1 : chattyBot
 
 This is a voice-output interface for CleverBot, a chatbot. 
+
+![chattyBot](https://github.com/tinkrmind/voiceInterfaces/blob/master/week1/chattyBotDemo.gif)
+
+### [Demo Video](https://vimeo.com/256171663)
 
 Needs python3, cleverwrap and flite chattyto run python should be present in a unix terminal
 
@@ -23,6 +27,10 @@ To exit, type > I'm leaving
 ---
 
 # Week 2 : fuckOff
+
+![fuckOff](https://github.com/tinkrmind/voiceInterfaces/blob/master/week2/fuckOff.gif)
+
+## [Demo Video](https://vimeo.com/256171889)
 
 fuckOff affords you a terminal interface to tell people to stop disturbing you when you're in the zone. After you're done setting it up, typing fuckOff speaks a random fuck you.
 
