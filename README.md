@@ -26,9 +26,7 @@ I am planning to dialogflow and Google Voice Kit to accomplish this. The basic d
 
 # Week 3 : Electron
 
-![Electron](https://github.com/tinkrmind/voiceInterfaces/blob/master/week3/simpleDemoGIF.gif)
-
-## [Demo Video](https://vimeo.com/255838314)
+[![Electron](https://github.com/tinkrmind/voiceInterfaces/blob/master/week3/simpleDemoGIF.gif)](https://vimeo.com/255838314)
 
 Meet electron, your electronics help assistant. Right now, he can make some small talk and decode resistor values from the color bands. But soon he'll be able to help you design circuits, decide component values, translate obscure smd codes, read pinouts and more!
 
@@ -37,9 +35,7 @@ Meet electron, your electronics help assistant. Right now, he can make some smal
 
 # Week 2 : fuckOff
 
-![fuckOff](https://github.com/tinkrmind/voiceInterfaces/blob/master/week2/fuckOff.gif)
-
-## [Demo Video](https://vimeo.com/256171889)
+[![fuckOff](https://github.com/tinkrmind/voiceInterfaces/blob/master/week2/fuckOff.gif)](https://vimeo.com/256171889)
 
 fuckOff affords you a terminal interface to tell people to stop disturbing you when you're in the zone. After you're done setting it up, typing fuckOff speaks a random fuck you.
 
@@ -65,9 +61,7 @@ Eg.
 
 This is a voice-output interface for CleverBot, a chatbot. 
 
-![chattyBot](https://github.com/tinkrmind/voiceInterfaces/blob/master/week1/chattyBotDemo.gif)
-
-### [Demo Video](https://vimeo.com/256171663)
+[![chattyBot](https://github.com/tinkrmind/voiceInterfaces/blob/master/week1/chattyBotDemo.gif)](https://vimeo.com/256171663)
 
 Needs python3, cleverwrap and flite chattyto run python should be present in a unix terminal
 
