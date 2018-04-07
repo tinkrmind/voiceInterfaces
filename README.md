@@ -2,7 +2,7 @@
 
 For [Voice interface class Spring 2018, ITP](https://github.com/juxtapix/ExpressiveInterfaces_Voice/wiki)
 
-# Electron Demo
+# [Electron Demo](https://vimeo.com/260140685)
 
 [![Electron Demo](https://i.vimeocdn.com/video/688784538.webp)](https://vimeo.com/260140685)
 
